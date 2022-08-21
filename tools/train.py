@@ -16,7 +16,7 @@ from yolov6.utils.config import Config
 from yolov6.utils.events import LOGGER, save_yaml
 from yolov6.utils.envs import get_envs, select_device, set_random_seed
 from yolov6.utils.general import increment_name
-
+#genggai sdlfjsdklfjk
 """
 例：原始为：
 import argparse
