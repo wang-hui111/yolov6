@@ -1,0 +1,3 @@
+/home/wanghui/桌面/YOLOv6-main/data1/images/train/000000000042.jpg
+/home/wanghui/桌面/YOLOv6-main/data1/images/train/000000000049.jpg
+/home/wanghui/桌面/YOLOv6-main/data1/images/train/000000000036.jpg

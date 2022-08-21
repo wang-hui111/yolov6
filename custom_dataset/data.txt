@@ -1,0 +1,9 @@
+/home/wanghui/桌面/YOLOv6-main/custom_dataset/images/train/000000000025.jpg
+/home/wanghui/桌面/YOLOv6-main/custom_dataset/images/train/000000000009.jpg
+/home/wanghui/桌面/YOLOv6-main/custom_dataset/images/train/000000000030.jpg
+/home/wanghui/桌面/YOLOv6-main/data2/images/train/000000000073.jpg
+/home/wanghui/桌面/YOLOv6-main/data2/images/train/000000000072.jpg
+/home/wanghui/桌面/YOLOv6-main/data2/images/train/000000000074.jpg
+/home/wanghui/桌面/YOLOv6-main/data1/images/train/000000000042.jpg
+/home/wanghui/桌面/YOLOv6-main/data1/images/train/000000000049.jpg
+/home/wanghui/桌面/YOLOv6-main/data1/images/train/000000000036.jpg
